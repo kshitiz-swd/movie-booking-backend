@@ -46,8 +46,8 @@ Modular folder structure for scalability
 ## 🚀 How to Run
 
 # Clone the repo
-git clone https://github.com/yourusername/lexisg-frontend-intern-test.git
-cd lexisg-frontend-intern-test
+git clone https://github.com/kshitiz-swd/movie-booking-backend.git
+cd movie-booking-backend
 
 # Install dependencies
 npm install
