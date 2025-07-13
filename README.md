@@ -13,12 +13,12 @@ This backend exposes a set of APIs for a movie booking platform where users can:
 
 ## 🚀 Features
 
-RESTful APIs using Express.js
-Data modeling and interaction with MongoDB via Mongoose
-Secure  Authentication
-Movie filtering with advanced query parameters
-Booking system with reference tracking
-Modular folder structure for scalability
+-RESTful APIs using Express.js
+- Data modeling and interaction with MongoDB via Mongoose
+- Secure  Authentication
+- Movie filtering with advanced query parameters
+- Booking system with reference tracking
+- Modular folder structure for scalability
 
 ## 🛠️ Tech Stack
 
@@ -42,6 +42,8 @@ Modular folder structure for scalability
 | POST   | `/bookings`                                                                                                 | Book a show and store the booking details |
 | GET    | `/artists`                                                                                                  | Retrieve the list of all artists from the database. |
 | GET    | `/genres`                                                                                                   | Retrieve the list of all genres from the database.  |
+| GET    | `/coupons`                                                                                                  | Retrieve the coupons available for discount|         
+
 
 ## 🚀 How to Run
 
